@@ -1,0 +1,7 @@
+xcuserdata
+*.ipa
+build/
+*.*~
+*~
+project.xcworkspace
+.DS_Store
